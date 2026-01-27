@@ -19,3 +19,15 @@
 ```HTML
 <h1>"Это заголовок</h1>
 ```
+# Базовые HTML-теги
+**Примеры:**
+```HTML
+<h2>Заголовок</h2>
+<p>Абзац текста</p>
+<strong>Жирный</strong>
+<em>Курсив</em>
+<hr>
+<a href="https://example.com">Ссылка</a>
+<img src="example.jpg" alt="Описание">
+
+```
