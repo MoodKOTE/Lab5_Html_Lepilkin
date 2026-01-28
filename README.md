@@ -12,6 +12,9 @@
 - **index.html** — основной HTML-файл
 - [README.md](/README.md) — описание лабораторной работы
 - **img/** — скриншоты
+- **html/** — задания
+- **Базовые HTML-теги** — описание тегов HTML
+- **Примеры из практики**
 
 ---
 # Теги в HTML
@@ -30,4 +33,15 @@
 <a href="https://example.com">Ссылка</a>
 <img src="example.jpg" alt="Описание">
 
+```
+# Пример из практики
+
+```HTML
+<h2>**Базовое HTML-Теги**</h2>
+    <p>
+      HTML позволяет <strong>выделять</strong> текст и делать <em>акценты</em>
+    </p>
+    <hr />
+    <p><a href="https://github.com">Мой GitHub</a></p>
+    <p><img src="img/gitPushLab5_Lepilkin.png" alt="Пример изображения"/></p>
 ```
