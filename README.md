@@ -74,10 +74,12 @@
 
 ---
 ## Примеры атрибутов
+```HTML
 <h2>Примеры атрибутов</h2>
     <p id="main-text" class="highlight" title="Это всплывающая подсказка"">Это образец содержит id, class and title</p>
     <p><a href="https://example.com" target="_blank" title="Откроется в новой вкладке">Кликни меня </a></p>
     <p><img src="https://placehold.c/150" alt="Пример изображения"
+```
 
 ---
 ## Картинки 
